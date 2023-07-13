@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: red;
+}
+
+* {
+    background-color: white;
+    text-align: center;
+    letter-spacing: 1;
+
+}
+
+ul {
+    line-height: 1.5;
+    list-style-position: inside;
+}
